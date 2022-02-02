@@ -1,1 +1,1 @@
-"# JavaFX-MyCube" 
+# JavaFX-MyCube
